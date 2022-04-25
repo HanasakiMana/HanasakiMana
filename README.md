@@ -1,7 +1,5 @@
 # がおぉぉぉぉぉぉぉぉぉ！！
 
-<img src="https://github.com/mallow5359/mallow5359/blob/main/IMG_3330.PNG" width="200" height="200">
-
 Mallow here, still searching for the meaning of coding.
 
 NO MORE 🐛 PLS!!!
