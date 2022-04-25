@@ -24,4 +24,4 @@ Trying to write some music(no works though)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mallow5359&repo=MiniGeki&show_owner=True)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallow5359)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallow5359&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
