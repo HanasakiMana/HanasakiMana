@@ -1,16 +1,27 @@
-### Hi there 👋
+# 啊，头发又少了
 
-<!--
-**mallow5359/mallow5359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mallow here, still searching for the meaning of coding.
 
-Here are some ideas to get you started:
+NO MORE 🐛 PLS!!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Curious about computer hardwares
+
+Mac User, Video editing for interest
+
+Learning Japanese slowly（私日本語本当苦手）
+
+A rhythm games gamer（CytusII，Phigros，MuseDash，Maimai，ONGEKI?）
+
+Maybe some console games?(XBox One & Series S, PlayStation4, Nintendo Switch)
+
+Trying to write some music(no works though)
+
+## Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=mallow5359&theme=solarized-light" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mallow5359&repo=MiniGeki&show_owner=True)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallow5359)](https://github.com/anuraghazra/github-readme-stats)
