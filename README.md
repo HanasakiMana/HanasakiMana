@@ -6,17 +6,17 @@ NO MORE 🐛 PLS!!!
 
 ## About me
 
-Curious about computer hardwares
+known a little about computer hardwares
 
-Mac User, Video editing for interest
+Mac User, video editing for interest
 
-Learning Japanese slowly（私日本語本当苦手）
+Learning Japanese
 
-A rhythm games gamer（CytusII，Phigros，MuseDash，Maimai，ONGEKI?）
+A rhythm games gamer（Cytus，Phigros，MuseDash，Maimai，ONGEKI?）
 
 Maybe some console games?(XBox One & Series S, PlayStation4, Nintendo Switch)
 
-Trying to write some music(no works though)
+Trying to learn how to make music
 
 ## Stats
 
