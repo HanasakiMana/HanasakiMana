@@ -1,24 +1,22 @@
 # がおぉぉぉぉぉぉぉぉぉ！！
 
-Mallow here, still searching for the meaning of coding.
-
 NO MORE 🐛 PLS!!!
 
 ## About me
 
-known a little about computer hardwares
+Learning computer science for joy&fun
 
-Mac User, video editing for interest
+Mac/Windows/Ubuntu User, video editing for interest
 
 Learning Japanese
 
-A rhythm games gamer（Cytus，Phigros，MuseDash，Maimai，ONGEKI?）
+Playing rhythm games（Cytus，Phigros，MuseDash，PJSK, Maimai，Chunithm, ONGEKI?）
 
-Maybe some console games?(XBox One & Series S, PlayStation4, Nintendo Switch)
+Maybe some console games?(XBox One & Series S, PlayStation 4, Nintendo Switch)
 
-Trying to learn how to make music
+Trying to write some music
 
-## Stats
+## Status
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mallow5359&theme=solarized-light" />
 
