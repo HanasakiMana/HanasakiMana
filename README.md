@@ -4,17 +4,9 @@ NO MORE 🐛 PLS!!!
 
 ## About me
 
-Learning computer science for joy&fun
+rhythm games player（Cytus，Phigros，MuseDash，PJSK, Maimai，Chunithm, ONGEKI?）
 
-Mac/Windows/Ubuntu User, video editing for interest
-
-Learning Japanese
-
-Playing rhythm games（Cytus，Phigros，MuseDash，PJSK, Maimai，Chunithm, ONGEKI?）
-
-Maybe some console games?(XBox One & Series S, PlayStation 4, Nintendo Switch)
-
-Trying to write some music
+Trying to make a game all by myself
 
 ## Status
 
