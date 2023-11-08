@@ -2,12 +2,6 @@
 
 NO MORE 🐛 PLS!!!
 
-## About me
-
-rhythm games player（Cytus，Phigros，MuseDash，PJSK, Maimai，Chunithm, ONGEKI?）
-
-Trying to make a game all by myself
-
 ## Status
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SlackMallow&theme=solarized-light" />
